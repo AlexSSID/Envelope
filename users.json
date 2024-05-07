@@ -1,0 +1,16 @@
+{
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "hobbies": ["running", "sky diving", "singing"],
+    "age": 35,
+    "Users": [
+        {
+            "Username": "Alex2",
+            "Password": "1234"
+        },
+        {
+            "Username": "Kirl",
+            "Password": "5436"
+        }
+    ]
+}
