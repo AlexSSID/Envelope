@@ -1,7 +1,11 @@
 {
     "firstName": "Jane",
     "lastName": "Doe",
-    "hobbies": ["running", "sky diving", "singing"],
+    "hobbies": [
+        "running",
+        "sky diving",
+        "singing"
+    ],
     "age": 35,
     "Users": [
         {
@@ -11,6 +15,10 @@
         {
             "Username": "Kirl",
             "Password": "5436"
+        },
+        {
+            "Username": "Pavel",
+            "Password": "Sobyanin"
         }
     ]
 }
