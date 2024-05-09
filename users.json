@@ -27,6 +27,10 @@
         {
             "Username": "Alex24",
             "Password": "1234"
+        },
+        {
+            "Username": "\u044b\u0444\u0432",
+            "Password": "asd"
         }
     ]
 }
