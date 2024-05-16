@@ -4,4 +4,4 @@
 # Features:
 * 🔆 Weather (boring)
 * 🅿️ Remove background 
-* 🧠Login system 
+* 🧠Login system (Dont look at users.json)
