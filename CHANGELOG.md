@@ -29,4 +29,4 @@ description when links are shared are language-appropriate
 - Trademark sign previously shown after the project description in version 
 0.3.0
 
-## [2.1.5] - 2024-05-17
+## [2.1.5] - 2024-17-05
